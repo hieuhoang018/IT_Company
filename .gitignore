@@ -1,0 +1,9 @@
+*.pro.user
+build-*
+templates/*
+examples/*
+*.vscode
+*.DS_Store
+*/build
+*.exe
+*.txt.user
